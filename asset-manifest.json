@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/gosto-reacte-website/static/css/main.7fd33e15.css",
+    "main.css": "/gosto-reacte-website/static/css/main.a53c27aa.css",
     "main.js": "/gosto-reacte-website/static/js/main.ff7dba8c.js",
     "static/media/cart.png": "/gosto-reacte-website/static/media/cart.427f0fe88453c51d151d.png",
     "static/media/logo.svg": "/gosto-reacte-website/static/media/logo.9b0b58f362a0cbe507915370c759b3d6.svg",
     "index.html": "/gosto-reacte-website/index.html",
-    "main.7fd33e15.css.map": "/gosto-reacte-website/static/css/main.7fd33e15.css.map",
+    "main.a53c27aa.css.map": "/gosto-reacte-website/static/css/main.a53c27aa.css.map",
     "main.ff7dba8c.js.map": "/gosto-reacte-website/static/js/main.ff7dba8c.js.map"
   },
   "entrypoints": [
-    "static/css/main.7fd33e15.css",
+    "static/css/main.a53c27aa.css",
     "static/js/main.ff7dba8c.js"
   ]
 }
